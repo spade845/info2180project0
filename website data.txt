@@ -1,0 +1,64 @@
+<h3 style="font-family:calibri">Email: spade845@hotmail.com</h3>
+		<h3 style="font-family:calibri">Cell: 1 876 5134705</h3>
+		<hr style="border: 1.2px solid black ">
+		<div id="profile">
+		<p id="intro" style="font-size:30px; font-family:calibri">I am a trained Customer Service Representative who has worked in the field spanning a total of 4 years. In my current capacity as a CRO (Complaint Resolution Official), Ticketing Agent, Check In Agent and Baggage Agent with Delta Airlines I utilize these skills and principles on a daily basis. For example as a CRO I am the first point of contact for disgruntled passengers, particularly those with a disability.  </p>
+
+		</div>
+		<div id="bod"> 
+		
+		<table  style="font-size:25px; font-family:calibri">
+    		<tr >
+        		<td><strong>Education:</strong></td>
+        		<td id="tb1">University of West Indies Jamaica<br>University of Technology</td             ><br>
+    		<tr>
+    		<td>   </td>  </tr>
+    		<tr>
+    		<td><strong>Skills:</strong></td>
+    		<td id="tb1">Computer Skills : Proficient in the various Microsoft     applications. <br>Communication Skills : Able to communicate efficiently both verbally and in writing. <br>
+    		Team Skills : Work well in groups through which my leadership skills are usually brought to the fore. <br>
+    		 Leadership Skills : Often take the initiative in getting jobs done and I work well in pressure situations.  </td>
+    		</tr>
+    		
+    		</tr>
+    		<tr>
+    		<td><strong>Experience:</strong></td>
+    		<td id="tb1">AJAS Ltd / Delta Airlines<br>
+    		<ul>
+    		<li>Handle check and Arrivals on behalf of Delta Air Lines </li>
+    		<li>Process ticket and excess baggage transactions (Cash and Credit Card) 
+ </li>
+    	
+    		</ul>
+    		
+    		<tr>
+    		<td></td>
+    		<td id="tb1">Accent Marketing Jamaica Ltd<br>
+    		<ul>
+    		<li>Troubleshoot computer problem over the phone for Asus Computers on different software platforms</li>
+    		<li>Chat Support - Troubleshoot computer problem via instant messaging for Asus Computers on different software platforms. 
+ 
+ </li>
+    	
+    		</ul>
+    		
+    			<tr>
+    		<td><strong>Hobbies:</strong></td>
+    		<td id="tb1">Playing football and Drawing</td>
+    		
+    		
+    		</tr>
+    		<tr>
+    		<td><strong>Refrences:</strong></td>
+    		<td id="tb1">Available upon Request<br></td>
+    		</table>
+    		<br>
+    	
+        
+        		
+        
+ 
+		
+		
+ </div>
+	</body>

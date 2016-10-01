@@ -1,0 +1,90 @@
+
+img {
+	position: absolute;
+	float: right;
+    right: 30px;
+    
+    top: 70px;
+    transform: rotate(330deg);
+    }
+#line{
+
+    color: black;
+}
+
+#name{
+margin-left: 30px;
+clear: right;
+
+}
+.contact{
+    margin-left: 30px;
+}
+
+#intro{
+
+    margin-left: 30px;
+}
+
+#left{
+   
+padding-left: 60px;
+font-family:calibri;
+clear: right;
+display:inline-block;
+position: relative;
+
+}
+
+
+
+.ed{
+
+    padding-top: 20px;
+
+
+}
+
+.skill{
+
+    padding-top: 20px;
+
+}
+
+.exp{
+
+    padding-top: 250px;
+}
+
+#right{
+    
+    font-family:calibri;
+    padding-left: 60px;
+    display: inline-block;
+    float:right;
+    position: absolute;
+    left:200px;
+
+}
+
+p{
+    font-size: 30px;
+}
+
+.ajas{
+
+    padding-top: 40px;
+}
+
+.hobbies{padding-top: 300px;
+}
+
+.reff{
+padding-top: 5px;
+
+}
+
+.hob{
+padding-top: 85px;
+
+}
